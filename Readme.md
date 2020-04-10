@@ -20,9 +20,10 @@ This base of this model is a Vector AutoRegression (VAR) model. There are severa
 
 ## File Organization
 
-COVID-19_Model.pdf - Basic outline of the model
-Clean Data and Run Initial Model.ipynb - Initial model results
-ExamplePlot.png - example of what plots will be included in the shiny app. This figure shows the counties that influence Weschester County, NY. In the shiny app the figure will be interactive, meaning users can hover over counties and see the strength of influence.
+COVID-19_Model.pdf - Basic outline of the model <br />
+Clean Data and Run Initial Model.ipynb - Initial model results <br />
+ExamplePlot.png - example of what plots will be included in the shiny app. This figure shows the counties that influence Weschester County, NY. In the shiny app the figure will be interactive, meaning users can hover over counties and see the strength of influence. <br />
+COVID_network.csv - The resulting network from the preliminary model
 
 ## April 10 Update
 
