@@ -12,7 +12,7 @@ I am using county level time series data of the COVID-19 cases for each county. 
 
 ## Discussion 
 
-The pre-stated goal is lofty and there are many challenges. One big challenge is that COVID-19 case counts are incredibily imperfect. See this great article about the challenges of relying on counts - https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/. That being said, it is the best data I have at this point. Another challenge is that two counties may be unrelated, but simultaneously grow at the same rate. That means that interpretion of the network requires discretion, is it possible that county A acually influence county B? If they are neighboring counties, that isn't to unreasonable. If a county in the middle of North Dakota is influencing San Francisco? That may be less likely. 
+The pre-stated goal is lofty and there are many challenges. One big challenge is that COVID-19 case counts are incredibily imperfect. See this great article about the challenges of relying on counts - https://fivethirtyeight.com/features/coronavirus-case-counts-are-meaningless/. That being said, it is the best data I have at this point. Another challenge is that two counties may be unrelated, but simultaneously grow at the same rate. That means that interpretion of the network requires discretion, is it possible that county A acually influence county B? If they are neighboring counties, that isn't too unreasonable. If a county in the middle of North Dakota is influencing San Francisco? That may be less likely. 
 
 ## Model
 
